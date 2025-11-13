@@ -4,6 +4,7 @@
 # Task Overview
 Technical Assignment: Run Selenium Test on BrowserStack
 Steps:
+
 1.Visit the website El País, a Spanish news outlet.
   -Ensure that the website's text is displayed in Spanish.
 
