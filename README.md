@@ -3,6 +3,7 @@
 
 # Task Overview
 Technical Assignment: Run Selenium Test on BrowserStack
+
 Steps:
 
 1.Visit the website El País, a Spanish news outlet.
@@ -30,8 +31,11 @@ Steps:
 
 
 The script efficiently executes test cases simultaneously on multiple browser and device configurations.
+
 This output is for one of the device test- 
-user@users-MacBook-Air To_Run_Selenium_Test_on_BrowserStack % node index.js                          
+
+user@users-MacBook-Air To_Run_Selenium_Test_on_BrowserStack % node index.js  
+
 Navigated to El Pais homepage.
 ======================================
 No cookies popup found or already accepted.
