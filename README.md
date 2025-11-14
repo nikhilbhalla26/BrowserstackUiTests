@@ -32,6 +32,6 @@ The objective of this assignment is to run a Selenium test on BrowserStack, whic
 ---
 
 ## Output Summary
-
-The script efficiently executes test cases simultaneously on multiple browser and device configurations. Below is the console output for one of the device tests:
+"consoleoutput.txt" has the output for the following.
+The script efficiently executes test cases simultaneously on multiple browser and device configurations.
 
